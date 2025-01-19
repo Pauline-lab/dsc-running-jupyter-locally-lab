@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Flatiron",
+			"path": ".."
+		},
+		{
+			"name": "dsc-run-jupyter-locally",
+			"path": "../../../dsc-run-jupyter-locally"
+		},
+		{
+			"name": "dsc-running-jupyter-locally-lab",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
